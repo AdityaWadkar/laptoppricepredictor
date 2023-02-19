@@ -2,4 +2,4 @@ streamlit
 sklearn
 pandas
 numpy
-pickle
+pickle5
