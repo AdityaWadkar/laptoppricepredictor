@@ -5,6 +5,7 @@
 [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
 [![Gitmoji](https://img.shields.io/badge/gitmoji-%20🚀%20🐳-FFDD67.svg)](https://gitmoji.carloscuesta.me)
 
+Engage with my project at:- [Laptop Price Predictor](https://laptoppricepredictor.streamlit.app/)
 
 ## 🚀 Brief Idea
 🎯 Our advanced machine learning model, powered by a Random Forest Classifier, provides insightful predictions to help you make informed decisions when purchasing a laptop.
