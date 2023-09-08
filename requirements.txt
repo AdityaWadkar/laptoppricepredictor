@@ -3,4 +3,4 @@ scikit-learn==1.2.2
 pandas
 numpy
 pickle5
-xgboost
+xgboost==1.7.5
